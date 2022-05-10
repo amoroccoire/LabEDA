@@ -81,7 +81,7 @@ ls<div align="center">
         <tr><th>REFERENCIAS Y BIBLIOGRAFIA</th></tr>
     </theader>
     <tbody>
-        ## REFERENCIAS
+        <h5>## REFERENCIAS
 - https://git-scm.com/book/es/v2
 - https://guides.github.com/
 - https://www.w3schools.com/java/default.asp
@@ -134,7 +134,7 @@ ls<div align="center">
 
 [![License][license]][license-file]
 [![Downloads][downloads]][releases]
-[![Last Commit][last-commit]][releases]
+[![Last Commit][last-commit]][releases]</h5>
     </tbody>
 </table>
 
