@@ -39,11 +39,11 @@ ls<div align="center">
 </tr>
 <tr><td colspan="4">Integrantes:
         <ul>
-            <li><h3>Nombres</h3></li>
-            <li><h3>Nombres</h3></li>
-            <li><h3>Nombres</h3></li>
-            <li><h3>Quispe Bejar, Garlet Analy</h3></li>
-            <li><h3>Nombres</h3></li>
+            <li><h5>Nombres</h5></li>
+            <li><h5>Nombres</h5></li>
+            <li><h5>Nombres</h5></li>
+            <li><h5>Quispe Bejar, Garlet Analy</h5></li>
+            <li><h5>Nombres</h5></li>
         </ul>
     </td>
     <td colspan="2">Nota:</td>
