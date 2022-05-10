@@ -39,7 +39,7 @@ ls<div align="center">
 </tr>
 <tr><td colspan="4">Integrantes:
         <ul>
-            <li><h5>Nombres</h5></li>
+            <li><h5>Escobar Atamari, Diego Gabriel</h5></li>
             <li><h5>Nombres</h5></li>
             <li><h5>Nombres</h5></li>
             <li><h5>Quispe Bejar, Garlet Analy</h5></li>
