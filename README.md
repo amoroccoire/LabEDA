@@ -59,12 +59,12 @@ ls<div align="center">
 
 <table>
     <theader>
-        <tr><th>SOLUCIÓN Y RESULTADOS</th></tr>
+        <tr><th colspan="6">SOLUCIÓN Y RESULTADOS</th></tr>
     </theader>
     <tbody>
-        <tr>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS</tr>
-        <tr>II. SOLUCIÓN DEL CUESTIONARIO</tr>
-        <tr>III. CONCLUSIONES</tr>
+        <tr><td colspan="6">I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS</td></tr>
+        <tr><td colspan="6">II. SOLUCIÓN DEL CUESTIONARIO</td></tr>
+        <tr><td colspan="6">III. CONCLUSIONES</td></tr>
     </tbody>
 </table>
 
