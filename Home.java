@@ -1,15 +1,16 @@
-public class Main {
-  public static void main (String[]args){
-     System.out.print("Comentario para la prueba")
-     System.out.print("Ejecutando el programa")
-     System.out.print("Muestra de texto")
+public class Home {
 
-     System.out.print("Imprimiendo texto")
-     System.out.print("Imprimiendo texto")
-     System.out.print("Imprimiendo texto")
-     System.out.print("Imprimiendo texto")
-     System.out.print("Imprimiendo texto")
-     System.out.print("Imprimiendo texto")
-     System.out.print("Se termino")
+  public static void main (String[]args){
+     System.out.print("Comentario para la pruebas\n");
+     System.out.print("Ejecutando el programa\n");
+     System.out.print("Muestra de texto\n");
+
+     System.out.print("Imprimiendo texto\n");
+     System.out.print("Imprimiendo texto\n");
+     System.out.print("Imprimiendo texto\n");
+     System.out.print("Imprimiendo texto\n");
+     System.out.print("Imprimiendo texto\n");
+     System.out.print("Imprimiendo texto\n");
+     System.out.print("Se termino");
  }  
 }
