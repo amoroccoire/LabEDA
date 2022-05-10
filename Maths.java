@@ -1,3 +1,8 @@
+/*
+ * Calculo de PI a partir del lanzamiento de un dardo sobre un cuadrante
+ * situado en un un cuadrado de lado 1u
+*/
+
 import java.util.Scanner;
 
 public class Maths{
