@@ -73,6 +73,7 @@ ls<div align="center">
         <tr><th>RETROALIMENTACIÓN</th></tr>
     </theader>
     <tbody>
+         <tr><td colspan="6">                       </td></tr>
     </tbody>
 </table>
 
@@ -81,11 +82,13 @@ ls<div align="center">
         <tr><th>REFERENCIAS Y BIBLIOGRAFIA</th></tr>
     </theader>
     <tbody>
-        <ul>
-        <li>https://git-scm.com/book/es/v2</li>
-        <li>https://guides.github.com/</li>
-        <li>https://www.w3schools.com/java/default.asp</li>
-        </ul>
+        <tr>
+            <ul>
+                <li>https://git-scm.com/book/es/v2</li>
+                <li>https://guides.github.com/</li>
+                <li>https://www.w3schools.com/java/default.asp</li>
+            </ul>
+        </tr>
     </tbody>
 </table>
 
