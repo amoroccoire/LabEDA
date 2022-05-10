@@ -20,7 +20,7 @@ ls<div align="center">
 </div>
 
 <div align="center">
-<span style="font-weight:bold;">GUÍA DE LABORATORIO</span><br />
+<span style="font-weight:bold;">INFORME DE LABORATORIO</span><br />
 </div>
 
 
@@ -35,15 +35,15 @@ ls<div align="center">
 <td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
 </tr>
 <tr>
-<td>FECHA INICIO:</td><td>02-May-2022</td><td>FECHA FIN:</td><td>06-May-2022</td><td>DURACIÓN:</td><td>02 horas</td>
+<td>FECHA DE PRESENTACIÓN:</td><td>10-May-2022</td><td>HORA DE PRESENTACIÓN:</td><td colspan="3">23:55</td>
 </tr>
 <tr><td colspan="4">Integrantes:
         <ul>
-            <li><h3></h3></li>
-            <li><h3></h3></li>
-            <li><h3></h3></li>
+            <li><h3>Nombres</h3></li>
+            <li><h3>Nombres</h3></li>
+            <li><h3>Nombres</h3></li>
             <li><h3>Quispe Bejar, Garlet Analy</h3></li>
-            <li><h3></h3></li>
+            <li><h3>Nombres</h3></li>
         </ul>
     </td>
     <td colspan="2">Nota:</td>
@@ -57,7 +57,31 @@ ls<div align="center">
 </tdbody>
 </table>
 
-## REFERENCIAS
+<table>
+    <theader>
+        <tr><th>SOLUCIÓN Y RESULTADOS</th></tr>
+    </theader>
+    <tbody>
+        <tr>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS</tr>
+        <tr>II. SOLUCIÓN DEL CUESTIONARIO</tr>
+        <tr>III. CONCLUSIONES</tr>
+    </tbody>
+</table>
+
+<table>
+    <theader>
+        <tr><th>RETROALIMENTACIÓN</th></tr>
+    </theader>
+    <tbody>
+    </tbody>
+</table>
+
+<table>
+    <theader>
+        <tr><th>REFERENCIAS Y BIBLIOGRAFIA</th></tr>
+    </theader>
+    <tbody>
+        ## REFERENCIAS
 - https://git-scm.com/book/es/v2
 - https://guides.github.com/
 - https://www.w3schools.com/java/default.asp
@@ -111,3 +135,6 @@ ls<div align="center">
 [![License][license]][license-file]
 [![Downloads][downloads]][releases]
 [![Last Commit][last-commit]][releases]
+    </tbody>
+</table>
+
