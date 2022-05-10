@@ -35,15 +35,18 @@ ls<div align="center">
 <td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
 </tr>
 <tr>
-<td>FECHA INICIO::</td><td>02-May-2022</td><td>FECHA FIN:</td><td>06-May-2022</td><td>DURACIÓN:</td><td>02 horas</td>
+<td>FECHA INICIO:</td><td>02-May-2022</td><td>FECHA FIN:</td><td>06-May-2022</td><td>DURACIÓN:</td><td>02 horas</td>
 </tr>
-<tr><td colspan="6">RECURSOS:
-    <ul>
-        <li><a href="https://git-scm.com/book/es/v2">https://git-scm.com/book/es/v2</a></li>
-        <li><a href="https://guides.github.com/">https://guides.github.com/</a></li>        
-        <li><a href="https://www.w3schools.com/java/default.asp">https://www.w3schools.com/java/default.asp</a></li>
-    </ul>
-</td>
+<tr><td colspan="4">Integrantes:
+        <ul>
+            <li><h3></h3></li>
+            <li><h3></h3></li>
+            <li><h3></h3></li>
+            <li><h3>Quispe Bejar, Garlet Analy</h3></li>
+            <li><h3></h3></li>
+        </ul>
+    </td>
+    <td colspan="2">Nota:</td>
 </<tr>
 <tr><td colspan="6">DOCENTES:
 <ul>
