@@ -1,3 +1,7 @@
+/*
+ * Dado un string cuenta cuantas vocales tiene
+*/
+
 public class Booleans{
     public static void main(String[] args){
 
@@ -13,7 +17,7 @@ public class Booleans{
                 contador++;
         }
 
-        System.out.println("La frase: " + frase + "tiene " + contador 
+        System.out.println("La frase: " + frase + " tiene " + contador 
                 + " vocales");
     }
 }
