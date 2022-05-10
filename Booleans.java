@@ -13,7 +13,7 @@ public class Booleans{
                 contador++;
         }
 
-        System.out.println("En la frase: " + frase + "hay: " + contador 
+        System.out.println("La frase: " + frase + "tiene " + contador 
                 + " vocales");
     }
 }
