@@ -82,12 +82,12 @@ ls<div align="center">
         <tr><th>REFERENCIAS Y BIBLIOGRAFIA</th></tr>
     </theader>
     <tbody>
-        <tr>
+        <tr><td>
             <ul>
                 <li>https://git-scm.com/book/es/v2</li>
                 <li>https://guides.github.com/</li>
                 <li>https://www.w3schools.com/java/default.asp</li>
-            </ul>
+            </ul></td>
         </tr>
     </tbody>
 </table>
