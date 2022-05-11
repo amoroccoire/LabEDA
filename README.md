@@ -41,7 +41,7 @@ ls<div align="center">
         <ul>
             <li><h5>Escobar Atamari, Diego Gabriel</h5></li>
             <li><h5>Nombres</h5></li>
-            <li><h5>Nombres</h5></li>
+            <li><h5>Ervin Eleazar, Flores Sucapuca</h5></li>
             <li><h5>Quispe Bejar, Garlet Analy</h5></li>
             <li><h5>Nombres</h5></li>
         </ul>
