@@ -64,7 +64,7 @@ ls<div align="center">
     <tbody>
         <tr><td colspan="6">I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS
             <td><img src="https://github.com/amoroccoire/LabEDA/tree/main/Z_imag/Home.jpg" alt="imagen_1""/></td>
-            <td><img src="https://github.com/amoroccoire/LabEDA/tree/main/z_imag/Booleans.jpg?raw=true" alt="imagen_1" style="width:50%; height:auto"/></td>
+            <td><img src="z_imag/Booleans.jpg?raw=true" alt="imagen_1" style="width:50%; height:auto"/></td>
         </td></tr>
         <tr><td colspan="6">II. SOLUCIÓN DEL CUESTIONARIO
          <ul>
