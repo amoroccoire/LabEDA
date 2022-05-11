@@ -82,8 +82,10 @@ ls<div align="center">
         </li>
          </ul>
         </td></tr>
-        <tr><td colspan="6">III. CONCLUSIONES</td></tr>
-    </tbody>
+        <tr><td colspan="6">III. CONCLUSIONES
+           <li>GitHub es una herramienta que te da acceso a la gestion del codigo asi como ayuda a otras personas a ver tu código y aprender de el, teniendo esa sensacion de trabajo en codigo abierto ya que todo es visible y manipulable. </li>
+</td></tr>
+ </tbody>
 </table>
 
 <table>
