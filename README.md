@@ -62,7 +62,10 @@ ls<div align="center">
         <tr><th colspan="6">SOLUCIÓN Y RESULTADOS</th></tr>
     </theader>
     <tbody>
-        <tr><td colspan="6">I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS</td></tr>
+        <tr><td colspan="6">I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS
+       
+            <td><img src="https://github.com/amoroccoire/LabEDA/tree/main/z_imag?raw=true" alt="EPIS" style="width:50%; height:auto"/></td>
+        </td></tr>
         <tr><td colspan="6">II. SOLUCIÓN DEL CUESTIONARIO
          <ul>
          <li>¿Por qué Git y GitHub son herramientas importantes para el curso?
