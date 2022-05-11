@@ -110,10 +110,10 @@ ls<div align="center">
           <ul>
           <li>Quispe Bejar Garlet Analy
              <ul>
-	     <li><img src="z_imag/Parameters.jpg?raw=true" alt="image_1" style witdh="250"; height="250"/></li>
-	     <li><img src="z_imag/OverLoading.jpg?raw=true" alt="image_1" style witdh="250"; height="250"/></li>
-	     <li><img src="z_imag/Scope.jpg?raw=true" alt="image_1" style witdh="250"; height="250"/></li>
-	     <li><img src="z_imag/Recursion.jpg?raw=true" alt="image_1" style witdh="250"; height="250"/></li>
+	     <li><img src="z_imag/Parameters.jpeg?raw=true" alt="image_1" style witdh="250"; height="250"/></li>
+	     <li><img src="z_imag/OverLoading.jpeg?raw=true" alt="image_1" style witdh="250"; height="250"/></li>
+	     <li><img src="z_imag/Scope.jpeg?raw=true" alt="image_1" style witdh="250"; height="250"/></li>
+	     <li><img src="z_imag/Recursion.jpeg?raw=true" alt="image_1" style witdh="250"; height="250"/></li>
               </ul>
            </li>
           </ul>
