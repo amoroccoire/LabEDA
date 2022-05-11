@@ -38,12 +38,13 @@ ls<div align="center">
 <td>FECHA DE PRESENTACIÓN:</td><td>10-May-2022</td><td>HORA DE PRESENTACIÓN:</td><td colspan="3">23:55</td>
 </tr>
 <tr><td colspan="4">Integrantes:
+
         <ul>
             <li><h5>Escobar Atamari, Diego Gabriel</h5></li>
-            <li><h5>Ervin Eleazar, Flores Sucapuca</h5></li>
-            <li><h5>Nombres</h5></li>
+            <li><h5>Flores Sucupaca, Ervin Eleazar </h5></li>
+            <li><h5>Moroccoire Pacompia Anthony Marcos</h5></li>
             <li><h5>Quispe Bejar, Garlet Analy</h5></li>
-            <li><h5>Nombres</h5></li>
+            <li><h5>Machicao Quispe, Gabriel Steven</h5></li>
         </ul>
     </td>
     <td colspan="2">Nota:</td>
