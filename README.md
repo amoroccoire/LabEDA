@@ -63,7 +63,6 @@ ls<div align="center">
     </theader>
     <tbody>
         <tr><td colspan="6">I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS
-       
             <td><img src="https://github.com/amoroccoire/LabEDA/tree/main/z_imag?raw=true" alt="EPIS" style="width:50%; height:auto"/></td>
         </td></tr>
         <tr><td colspan="6">II. SOLUCIÓN DEL CUESTIONARIO
