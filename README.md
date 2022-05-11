@@ -63,9 +63,14 @@ ls<div align="center">
     </theader>
     <tbody>
         <tr><td colspan="6">I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS
-            <td><img src="https://github.com/amoroccoire/LabEDA/tree/main/Z_imag/Home.jpg" alt="imagen_1""/></td>
-            <img src="z_imag/Booleans.jpg?raw=true" alt="imagen_1" style="width:50%; height:auto"/>
-        </td></tr>
+          <ul>
+          <li>Escobar Atamari Diego Gabriel
+             <ul>
+                <li><img src="z_imag/Home.jpg?raw=true" alt="image_1" style witdh:50%; height:auto"/></li>
+              </ul>
+           </li>
+          </ul>
+          </td></tr>   
         <tr><td colspan="6">II. SOLUCIÓN DEL CUESTIONARIO
          <ul>
          <li>¿Por qué Git y GitHub son herramientas importantes para el curso?
