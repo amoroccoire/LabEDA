@@ -38,7 +38,6 @@ ls<div align="center">
 <td>FECHA DE PRESENTACIÓN:</td><td>10-May-2022</td><td>HORA DE PRESENTACIÓN:</td><td colspan="3">23:55</td>
 </tr>
 <tr><td colspan="4">Integrantes:
-
         <ul>
             <li><h5>Escobar Atamari, Diego Gabriel</h5></li>
             <li><h5>Flores Sucupaca, Ervin Eleazar </h5></li>
