@@ -74,6 +74,49 @@ ls<div align="center">
               </ul>
            </li>
           </ul>
+          <ul>
+          <li>Machicao Quispe Gabriel Steven
+             <ul>
+	     <li><img src="z_imag/Comments.jpg?raw=true" alt="image_1" style witdh="250"; height="250"/></li>
+	     <li><img src="z_imag/Variables.jpg?raw=true" alt="image_1" style witdh="250"; height="250"/></li>
+	     <li><img src="z_imag/DataTypes.jpg?raw=true" alt="image_1" style witdh="250"; height="250"/></li>
+	     <li><img src="z_imag/TypeCasting.jpg?raw=true" alt="image_1" style witdh="250"; height="250"/></li>
+	     <li><img src="z_imag/Operatos.jpg?raw=true" alt="image_1" style witdh="250"; height="250"/></li>
+              </ul>
+           </li>
+          </ul>
+          <ul>
+          <li>Moroccoire Pacompia Anthony Marcos
+             <ul>
+	     <li><img src="z_imag/Strings.jpg?raw=true" alt="image_1" style witdh="250"; height="250"/></li>
+	     <li><img src="z_imag/Maths.jpg?raw=true" alt="image_1" style witdh="250"; height="250"/></li>
+	     <li><img src="z_imag/Booleans.jpg?raw=true" alt="image_1" style witdh="250"; height="250"/></li>
+	     <li><img src="z_imag/IfElse.jpg?raw=true" alt="image_1" style witdh="250"; height="250"/></li>
+	     <li><img src="z_imag/Switch.jpg?raw=true" alt="image_1" style witdh="250"; height="250"/></li>
+              </ul>
+           </li>
+          </ul>
+          <ul>
+          <li>Flores Sucupaca Anthony Marcos
+             <ul>
+	     <li><img src="z_imag/While.jpg?raw=true" alt="image_1" style witdh="250"; height="250"/></li>
+	     <li><img src="z_imag/For.jpg?raw=true" alt="image_1" style witdh="250"; height="250"/></li>
+	     <li><img src="z_imag/Break.jpg?raw=true" alt="image_1" style witdh="250"; height="250"/></li>
+	     <li><img src="z_imag/Array.jpg?raw=true" alt="image_1" style witdh="250"; height="250"/></li>
+	     <li><img src="z_imag/Methods.jpg?raw=true" alt="image_1" style witdh="250"; height="250"/></li>
+              </ul>
+           </li>
+          </ul>
+          <ul>
+          <li>Quispe Bejar Garlet Analy
+             <ul>
+	     <li><img src="z_imag/Parameters.jpg?raw=true" alt="image_1" style witdh="250"; height="250"/></li>
+	     <li><img src="z_imag/OverLoading.jpg?raw=true" alt="image_1" style witdh="250"; height="250"/></li>
+	     <li><img src="z_imag/Scope.jpg?raw=true" alt="image_1" style witdh="250"; height="250"/></li>
+	     <li><img src="z_imag/Recursion.jpg?raw=true" alt="image_1" style witdh="250"; height="250"/></li>
+              </ul>
+           </li>
+          </ul>
           </td></tr>   
         <tr><td colspan="6">II. SOLUCIÓN DEL CUESTIONARIO
          <ul>
