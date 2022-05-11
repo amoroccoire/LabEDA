@@ -66,7 +66,11 @@ ls<div align="center">
           <ul>
           <li>Escobar Atamari Diego Gabriel
              <ul>
-	     <li><img src="z_imag/Home.jpg?raw=true" alt="image_1" style witdh="300"; height="300"/></li>
+	     <li><img src="z_imag/Home.jpg?raw=true" alt="image_1" style witdh="250"; height="250"/></li>
+	     <li><img src="z_imag/Intro.jpg?raw=true" alt="image_1" style witdh="250"; height="250"/></li>
+	     <li><img src="z_imag/GetStarted.jpg?raw=true" alt="image_1" style witdh="250"; height="250"/></li>
+	     <li><img src="z_imag/Syntax.jpg?raw=true" alt="image_1" style witdh="250"; height="250"/></li>
+	     <li><img src="z_imag/Output.jpg?raw=true" alt="image_1" style witdh="250"; height="250"/></li>
               </ul>
            </li>
           </ul>
