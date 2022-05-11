@@ -63,7 +63,15 @@ ls<div align="center">
     </theader>
     <tbody>
         <tr><td colspan="6">I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS</td></tr>
-        <tr><td colspan="6">II. SOLUCIÓN DEL CUESTIONARIO</td></tr>
+        <tr><td colspan="6">II. SOLUCIÓN DEL CUESTIONARIO
+         <ul>
+         <li>¿Por qué Git y GitHub son herramientas importantes para el curso?
+              <ul>
+                   <li>Porque ayudan a organizar y alojar archivos, esto es un desarrollo grupal es de gran ayuda</li>
+ 	       </ul>
+          </li>
+         </ul>
+        </td></tr>
         <tr><td colspan="6">III. CONCLUSIONES</td></tr>
     </tbody>
 </table>
