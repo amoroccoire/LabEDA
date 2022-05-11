@@ -70,6 +70,18 @@ ls<div align="center">
                    <li>Porque ayudan a organizar y alojar archivos, esto es un desarrollo grupal es de gran ayuda</li>
  	       </ul>
           </li>
+          
+        <li>¿Qué conductas éticas deberíam promocionarse cuando se usa un Sistema de Control de Versiones?
+            <ul>
+                <li>La responsabilidad, integridad y confindencialidad son algunas éticas que deben estar presentes al trabajar con este sistema ya que es un trabajo de equipo</li> 
+          </ul>
+        </li>
+        <li>¿Qué son los estándares de codificación?
+            <ul>
+               <li>Son un conjunto de "reglas" que no estan escritas pero que se han ido surgiendo en los desarrolladores para mejorar la calidad de código y los resultados</li>
+           </ul>
+        </li>
+     
          </ul>
         </td></tr>
         <tr><td colspan="6">III. CONCLUSIONES</td></tr>
